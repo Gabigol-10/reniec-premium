@@ -239,10 +239,10 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
+**Gabriel Sebastian**
+- GitHub: [@Gabigol-10](https://github.com/Gabigol-10)
+- LinkedIn: [Gabriel Sebastian](https://www.linkedin.com/in/gabriel-sebastian-ts-452a42408)
+- Email: gabrielsebastiants@gmail.com
 
 ---
 
