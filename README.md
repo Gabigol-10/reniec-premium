@@ -80,22 +80,6 @@ Contraseña: admin123
 
 ---
 
-## 📸 Capturas de Pantalla
-
-### Dashboard Ejecutivo
-![Dashboard](screenshots/dashboard.png)
-*Métricas en tiempo real con contadores animados y gráficos interactivos*
-
-### Gestión de Usuarios
-![Users Table](screenshots/users.png)
-*Tabla avanzada con búsqueda, filtros y exportación*
-
-### Modo Oscuro
-![Dark Mode](screenshots/dark-mode.png)
-*Transición suave entre temas con glassmorphism*
-
----
-
 ## 🏛️ Estructura del Proyecto
 
 ```
